@@ -1841,6 +1841,7 @@ button:hover {
 
     header, .features, .our__works, .callback-section{
         background-attachment:scroll;
+	   background-position:center;
     }
 
     .mini__img {
